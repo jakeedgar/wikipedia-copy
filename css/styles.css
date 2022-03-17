@@ -1,0 +1,20 @@
+img {
+  float: right;
+  position: relative;
+  top: -130px;
+  left: 50px;
+  width: 190px;
+  height: 190px;
+}
+
+.jumbotron {
+  background-color: lightgray;
+}
+
+.col-2 {
+  float: left;
+}
+
+.rightfloat {
+  float: right;
+}
