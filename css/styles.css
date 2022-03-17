@@ -5,24 +5,16 @@ img {
 
 .jumbotron {
   width: 80%;
-  float: right;
 }
 
-.col-2 {
+/* .col-2 {
   float: left;
+} */
+
+#sidebar {
+  position: left;
 }
 
-body {
-  margin-left: 150px;
-  background-color: #fff;
-}
-#col4-1{
+#float {
   float: right;
-}
-#col6-1{
-  float: right;
-}
-
-.mydiv {
-  margin-left: -175px;
 }
